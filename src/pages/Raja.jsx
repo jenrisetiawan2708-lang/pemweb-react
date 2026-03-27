@@ -175,13 +175,15 @@ export default function Raja() {
                     </p>
 
                     <p>
-                      Saya tertarik untuk mempelajari bagaimana sebuah aplikasi
-                      dapat dibangun dari nol hingga menjadi sebuah sistem yang
-                      fungsional dan user-friendly. Dalam perjalanan belajar
-                      saya, saya mulai memahami pentingnya desain antarmuka yang
-                      baik serta pengalaman pengguna yang nyaman. Oleh karena
-                      itu, saya terus mengasah kemampuan saya dalam menggunakan
-                      berbagai tools dan framework modern.
+                      Saya memiliki ketertarikan dalam mempelajari bagaimana
+                      sebuah aplikasi dibangun dari tahap awal hingga menjadi
+                      sistem yang fungsional dan mudah digunakan. Dalam proses
+                      pembelajaran tersebut, saya semakin memahami pentingnya
+                      desain antarmuka (UI) yang baik serta pengalaman pengguna
+                      (UX) yang nyaman. Oleh karena itu, saya terus
+                      mengembangkan kemampuan dengan memanfaatkan berbagai tools
+                      dan framework modern untuk menciptakan solusi yang efektif
+                      dan user-friendly.
                     </p>
 
                     <p>
@@ -246,7 +248,7 @@ export default function Raja() {
             </div>
           </div>
         </div>
-      </div> 
+      </div>
     </div>
   );
 }
