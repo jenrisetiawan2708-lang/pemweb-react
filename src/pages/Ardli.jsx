@@ -163,9 +163,14 @@ export default function Ardli() {
                     </p>
 
                     <p>
-                      Saya menikmati proses memecahkan masalah dan mencari solusi
-                      dalam setiap tantangan yang saya hadapi, terutama dalam
-                      bidang pemrograman.
+                      Saya tertarik mempelajari proses pengembangan aplikasi, mulai 
+                      dari tahap perencanaan hingga menjadi sistem yang fungsional dan
+                       mudah digunakan. Seiring dengan proses tersebut, saya menyadari bahwa 
+                       desain antarmuka dan pengalaman pengguna memiliki peran penting dalam
+                      menentukan kualitas sebuah aplikasi. Karena itu, saya terus mengasah
+                       kemampuan dengan mempelajari dan menggunakan berbagai tools serta 
+                       framework modern untuk menghasilkan solusi yang optimal dan 
+                       berorientasi pada pengguna.
                     </p>
 
                     <p>
